@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/0xkoda-mcp-rust-docs-badge.png)](https://mseep.ai/app/0xkoda-mcp-rust-docs)
+
 # MCP Rust Documentation Server
 
 This is a Model Context Protocol (MCP) server that fetches and returns documentation for Rust crates providing essential context for LLM's when working with Rust code.
